@@ -220,4 +220,4 @@ def update_date():
                 f.write("\n")
 
 
-client.login(process.env.BOT_TOKEN);
+client.run("BOT_TOKEN")
