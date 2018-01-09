@@ -1,0 +1,13 @@
+{
+"name": "Coin Flipper",
+"description": "Coin Flipper",
+"version": "1",
+"main": "run.py",
+"scripts": {
+"start": "node run.py"
+},
+"dependencies": {
+"discord.js": "11.1.0",
+"request": "2.81.0"
+}
+}
